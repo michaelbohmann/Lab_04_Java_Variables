@@ -57,7 +57,7 @@ public class Main
         double gallonGasPrice = 3.67;
         int favNum = 53;
         double shoeSize = 10.5;
-        string birthMonth = "August";
-        string fullName = "Michael Bohman";
+        String birthMonth = "August";
+        String fullName = "Michael Bohman";
     }
 }
